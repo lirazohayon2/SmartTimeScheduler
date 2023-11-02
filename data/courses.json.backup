@@ -1,0 +1,192 @@
+[
+	{
+		"course_id": "90901",
+		"name": "Differential and Integral Calculus 1",
+		"penalty": "10000",
+		"nickname": "Dif&Calc 1",
+		"group": [
+			{
+				"group_number": "1",
+				"time_slots": [
+					{
+						"day": "SUNDAY",
+						"startTime": "08:00",
+						"endTime": "14:00"
+					}
+				]
+			},
+			{
+				"group_number": "2",
+				"time_slots": [
+					{
+						"day": "SUNDAY",
+						"startTime": "11:00",
+						"endTime": "17:00"
+					}
+				]
+			},
+			{
+				"group_number": "3",
+				"time_slots": [
+					{
+						"day": "THURSDAY",
+						"startTime": "08:00",
+						"endTime": "14:00"
+					}
+				]
+			}
+		]
+	},
+	{
+		"course_id": "90905",
+		"name": "Linear Algebra",
+		"penalty": "10000",
+		"nickname": "Lin Alg",
+		"group": [
+			{
+				"group_number": "1",
+				"time_slots": [
+					{
+						"day": "MONDAY",
+						"startTime": "10:00",
+						"endTime": "16:00"
+					}
+				]
+			},
+			{
+				"group_number": "2",
+				"time_slots": [
+					{
+						"day": "MONDAY",
+						"startTime": "12:00",
+						"endTime": "18:00"
+					}
+				]
+			},
+			{
+				"group_number": "3",
+				"time_slots": [
+					{
+						"day": "WEDNESDAY",
+						"startTime": "10:00",
+						"endTime": "16:00"
+					}
+				]
+			}
+		]
+	},
+	{
+		"course_id": "10006",
+		"name": "Introduction to Computer Science",
+		"penalty": "10000",
+		"nickname": "Intro CS",
+		"group": [
+			{
+				"group_number": "1",
+				"time_slots": [
+					{
+						"day": "TUESDAY",
+						"startTime": "09:00",
+						"endTime": "15:00"
+					}
+				]
+			},
+			{
+				"group_number": "2",
+				"time_slots": [
+					{
+						"day": "TUESDAY",
+						"startTime": "08:00",
+						"endTime": "14:00"
+					}
+				]
+			},
+			{
+				"group_number": "3",
+				"time_slots": [
+					{
+						"day": "MONDAY",
+						"startTime": "09:00",
+						"endTime": "15:00"
+					}
+				]
+			}
+		]
+	},
+	{
+		"course_id": "10007",
+		"name": "Digital Logic Design",
+		"penalty": "10000",
+		"nickname": "Dig Logic",
+		"group": [
+			{
+				"group_number": "1",
+				"time_slots": [
+					{
+						"day": "WEDNESDAY",
+						"startTime": "09:00",
+						"endTime": "13:00"
+					}
+				]
+			},
+			{
+				"group_number": "2",
+				"time_slots": [
+					{
+						"day": "TUESDAY",
+						"startTime": "09:00",
+						"endTime": "13:00"
+					}
+				]
+			},
+			{
+				"group_number": "3",
+				"time_slots": [
+					{
+						"day": "WEDNESDAY",
+						"startTime": "16:00",
+						"endTime": "20:00"
+					}
+				]
+			}
+		]
+	},
+	{
+		"course_id": "90906",
+		"name": "Discrete Mathematics",
+		"penalty": "10000",
+		"nickname": "Dis Math",
+		"group": [
+			{
+				"group_number": "1",
+				"time_slots": [
+					{
+						"day": "THURSDAY",
+						"startTime": "12:00",
+						"endTime": "18:00"
+					}
+				]
+			},
+			{
+				"group_number": "2",
+				"time_slots": [
+					{
+						"day": "SUNDAY",
+						"startTime": "12:00",
+						"endTime": "18:00"
+					}
+				]
+			},
+			{
+				"group_number": "3",
+				"time_slots": [
+					{
+						"day": "THURSDAY",
+						"startTime": "14:00",
+						"endTime": "20:00"
+					}
+				]
+			}
+		]
+	}
+]
